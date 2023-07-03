@@ -21,18 +21,23 @@ rel = "noopener noreferrer"> <FaLinkedin size={40}/></a>
     </div>
   </div>
 </div>
-<div className='flex gap-6 w-3/4 mx-auto'>
+<div className='md:flex gap-6 w-3/4 mx-auto my-5'>
   
   <p className='text-lg'>Tech Stack | </p>
   <div className='flex gap-6'>
+ 
   <img  className='' src="/src/assets/html.png" alt="" />
   <img src="/src/assets/css.png" alt="" />
   <img src="/src/assets/js.png" alt="" />
+  
   <img src="/src/assets/tailwind.png" alt="" />
   <img src="/src/assets/node.png" alt="" />
   <img src="/src/assets/mongo.png" alt="" />
-  <img src="/src/assets/express.png" alt="" />
+
+ 
+ <img src="/src/assets/express.png" alt="" />
   <img src="/src/assets/react.png" alt="" />
+ 
   
   </div>
   
