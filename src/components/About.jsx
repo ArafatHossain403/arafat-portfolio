@@ -4,7 +4,7 @@ const About = () => {
       <div className="hero min-h-screen bg-base-200">
         <div className="hero-content flex-col lg:flex-row">
           <img
-            src="/src/assets/about.jpg"
+            src="https://i.ibb.co/kK3CdcD/pexels-andrew-neel-2312369.jpg"
             className="max-w-sm rounded-lg shadow-2xl"
           />
           <div className="text-left">

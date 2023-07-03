@@ -10,7 +10,7 @@ const Projects = () => {
       <div className=" my-7 hero  bg-base-200">
         <div className="hero-content flex-col lg:flex-row-reverse w-3/4 mx-auto">
           <img
-            src="/src/assets/fluentrix.png"
+            src="https://i.ibb.co/qBWPfg1/fluentrix-client-web-app.png"
             className="h-[300px] max-w-sm rounded-lg shadow-2xl"
           />
           <div>
@@ -48,7 +48,7 @@ rel = "noopener noreferrer">
       <div className="my-7 hero min-h-screen bg-base-200">
         <div className="hero-content flex-col lg:flex-row">
           <img
-            src="/src/assets/toy.png"
+            src="https://i.ibb.co/djmbqCX/toy-biz-client-web-app-1.png"
             className="h-[300px] max-w-sm rounded-lg shadow-2xl"
           />
           <div>
@@ -85,7 +85,7 @@ rel = "noopener noreferrer">
       <div className=" my-7 hero min-h-screen bg-base-200">
         <div className="hero-content flex-col lg:flex-row-reverse ">
           <img
-            src="/src/assets/desi.png"
+            src="https://i.ibb.co/Rbd58Rh/desi-chefs-recipes-web-app.png"
             className="max-w-sm  h-[300px] rounded-lg shadow-2xl"
           />
           <div>
