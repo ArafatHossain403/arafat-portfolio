@@ -38,16 +38,29 @@ const Banner = () => {
             <a href="/src/assets/arafathossain.resume.pdf" download>
               <button className="btn ">
                 <FiDownload />
-                Get Resume{" "}
+                Get Resume
               </button>
             </a>
           </div>
         </div>
       </div>
       <div className="md:flex gap-6 w-3/4 mx-auto my-5">
-        <p className="text-lg">Tech Stack | </p>
-        <div className="flex gap-6">
-          <img className="" src="/src/assets/html.png" alt="" />
+        <p className="text-xl font-serif font-bold">Tech Stack ||  
+        <span className="font-bold text-green-600"> HTML </span>
+        <span className="font-bold text-cyan-600"> |CSS </span>
+        <span className="font-bold text-yellow-600"> |JavaScript</span>
+        <span className="font-bold text-cyan-300"> |Tailwind</span>
+        <span className="font-bold text-teal-600"> |Node.js</span>
+        <span className="font-bold text-neutral-500"> |Express.js</span>
+        <span className="font-bold text-green-500"> |MongoDB</span>
+        
+
+        
+        
+        </p>
+        {/* <img src="/src/assets/css.png" alt="" /> */}
+        {/* <div className="flex gap-6">
+         <img  src="/public/html.png" alt="" />
           <img src="/src/assets/css.png" alt="" />
           <img src="/src/assets/js.png" alt="" />
           <img src="/src/assets/tailwind.png" alt="" />
@@ -55,7 +68,7 @@ const Banner = () => {
           <img src="/src/assets/mongo.png" alt="" />
           <img src="/src/assets/express.png" alt="" />
           <img src="/src/assets/react.png" alt="" />
-        </div>
+        </div> */}
       </div>
 
       {/* <div className='h-[500px] bg-blue-500 text-center my-4' id='home'>
