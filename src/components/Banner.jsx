@@ -53,11 +53,17 @@ const Banner = () => {
         <span className="font-bold text-teal-600"> |Node.js</span>
         <span className="font-bold text-neutral-500"> |Express.js</span>
         <span className="font-bold text-green-500"> |MongoDB</span>
-        
-
-        
-        
-        </p>
+        <span className="font-bold text-yellow-600"> |TypeScript</span>
+        <span className="font-bold text-cyan-300"> |Nextjs</span>
+        <span className="font-bold text-teal-600"> |Nestjs</span>
+        <span className="font-bold text-neutral-500">|React</span>
+        <span className="font-bold text-green-500"> |Prisma</span>
+        <span className="font-bold text-yellow-600"> |Graphql</span>
+        <span className="font-bold text-cyan-300"> |Postgres</span>
+        <span className="font-bold text-teal-600"> |Redux</span>
+        <span className="font-bold text-neutral-500"> |Express.js</span>
+        <span className="font-bold text-green-500"> |MongoDB</span>
+       </p>
         {/* <img src="/src/assets/css.png" alt="" /> */}
         {/* <div className="flex gap-6">
          <img  src="/public/html.png" alt="" />
