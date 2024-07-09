@@ -8,7 +8,7 @@ const Banner = () => {
       <div className="hero min-h-screen ">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
-            src="/public/profile.jpg"
+            src="/profile.jpg"
             className="max-w-sm rounded-full shadow-2xl"
           />
           <div className="text-left">
